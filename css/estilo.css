@@ -23,3 +23,70 @@ h5{
     margin-right: auto;
     margin-left: auto;
   }
+
+/*media querie*/
+@media screen and (max-width: 728px){
+    header#titulo h1{
+        margin-top: 0.2em;
+ font-size: 2em;
+     }
+     div#imgprincipal figure{
+         width: 125%;
+         margin-top: 0.2em;
+     margin-right: auto;
+     margin-left: auto;
+     
+ 
+     }
+     div#btnimg button{
+         width: 140%;
+         margin-top: 0.2em;
+         margin-right: auto;
+         margin-left: auto;
+     }
+ 
+ }
+
+@media screen and (max-width: 375px){
+   header#titulo h1{
+       margin-top: 0.2em;
+font-size: 2em;
+    }
+    div#imgprincipal figure{
+        width: 95%;
+        margin-top: 0.2em;
+    margin-right: auto;
+    margin-left: auto;
+    
+
+    }
+    div#btnimg button{
+        width: 120%;
+        margin-top: 0.2em;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+}
+    
+@media screen and (max-width: 320px){
+    header#titulo h1{
+        margin-top: 0.2em;
+ font-size: 2em;
+     }
+     div#imgprincipal figure{
+         width: 125%;
+         margin-top: 0.2em;
+     margin-right: auto;
+     margin-left: auto;
+     
+ 
+     }
+     div#btnimg button{
+         width: 140%;
+         margin-top: 0.2em;
+         margin-right: auto;
+         margin-left: auto;
+     }
+ 
+ }
