@@ -12,3 +12,14 @@ h5{
     text-align:center;
 }
 
+#imgprincipal{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+#btnimg{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+  }
